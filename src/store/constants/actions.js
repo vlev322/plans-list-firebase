@@ -1,0 +1,3 @@
+const CREATE_PROJECT = "CREATE_PROJECT";
+
+export default { CREATE_PROJECT };
